@@ -10,7 +10,7 @@
 
 <!-- ==================== BADGES & SOCIAL LINKS ==================== -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="https://www.linkedin.com/in/abdullah-naeem-965aa4436" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/iam-abdullah-code" target="_blank">
