@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:abdullahnaem102005@gmail.com">
+  <a href="mailto:abdullahnaem27123gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
@@ -57,7 +57,7 @@
     <td width="50%" valign="top">
       <h3>💻 Engineering & Industry Focus</h3>
       <ul>
-        <li><b>SMIT Scholar:</b> Training at <b>Saylani Mass IT Training</b> in Modern MERN Development.</li>
+        <li><b>SMIT</b> Training at <b>Saylani Mass IT Training</b> in Modern MERN Development.</li>
         <li><b>Backend Specialist:</b> REST APIs, Microservices, Node.js & Database Architecture.</li>
         <li><b>Full Stack Vision:</b> Clean component architecture paired with secure server logic.</li>
       </ul>
@@ -74,34 +74,34 @@
 
 <br><br>
 
-<h3 align="center">🎨 Frontend Engineering</h3>
+<h2 align="center">🎨 Frontend Engineering</h2>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,bootstrap&perline=9" height="90" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,bootstrap" width="500" />
 </p>
 
 <br><br>
 
-<h3 align="center">⚙️ Backend Development & APIs</h3>
+<h2 align="center">⚙️ Backend Development & APIs</h2>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postman&perline=5" height="90" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postman" width="250" />
 </p>
 
 <br><br>
 
-<h3 align="center">🗄️ Databases & Storage Architectures</h3>
+<h2 align="center">🗄️ Databases & Storage Architectures</h2>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&perline=5" height="90" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" width="350" />
 </p>
 
 <br><br>
 
-<h3 align="center">☁️ Cloud, DevOps & Tools</h3>
+<h2 align="center">☁️ Cloud, DevOps & Tools</h2>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,aws,docker&perline=6" height="90" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,aws,docker" width="480" />
 </p>
 
 <br><br>
