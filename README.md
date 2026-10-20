@@ -5,7 +5,7 @@
 
 <!-- ==================== TYPING TEXT ANIMATION ==================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Backend+%26+Database+Architect;A-Level+Maths+%26+CS+Student;Student+%40+Saylani+Mass+IT+Training+(SMIT)" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Backend+%26+Database+Architect;A-Level+Maths+%26+Computer+Science+Student;Student+%40+Saylani+Mass+IT+Training+(SMIT)" />
 </p>
 
 <!-- ==================== BADGES & SOCIAL LINKS ==================== -->
@@ -25,50 +25,77 @@
 ---
 
 <!-- ==================== ABOUT ME SECTION ==================== -->
-### 🚀 About Me
+<h3 align="center">🚀 About Me</h3>
 
-- 🎓 **Academics:** Strong background in **A-Level Mathematics**, **Further Mathematics**, and **Computer Science**.
-- 🏫 **Training:** Pursuing Modern Web Development at **Saylani Mass IT Training (SMIT)**.
-- 💡 **Core Focus:** Backend Architecture, Scalable Databases, RESTful APIs, and Server-Side Logic.
-- 🛠️ **Current Pursuits:** Data Structures & Algorithms, Object-Oriented Programming, and Cloud System Design.
-- 💬 **Ask Me About:** JavaScript, Node.js, Express.js, Databases, and Computational Logic.
+<p align="center">
+  <i>"Passionate about turning complex computational logic into scalable, robust web applications and robust backend systems."</i>
+</p>
+
+<br>
+
+- 🎓 **Academic Foundation:** Strong background in **A-Level Mathematics**, **Further Mathematics**, and **Computer Science**, giving me a deep analytical and algorithmic mindset.
+- 🏫 **Professional Training:** Currently sharpening my technical expertise by pursuing **Modern Web Development (MERN Stack)** at **Saylani Mass IT Training (SMIT)**.
+- 💻 **Core Engineering Focus:** Specializing in Server-Side Architecture, RESTful API design, database modeling, and building high-performance full-stack applications.
+- 🎯 **Long-term Goals:** To master advanced cloud infrastructure, contribute heavily to open-source ecosystems, and build production-ready enterprise software.
+- 💬 **Open for Discussions:** Hit me up regarding JavaScript logic, backend scaling, database optimization, or algorithmic problem-solving!
+
+<br>
 
 ---
 
-<!-- ==================== TECH STACK & TOOLS ==================== -->
+<!-- ==================== TECH STACK & ECOSYSTEM ==================== -->
 <h3 align="center">🛠️ Tech Stack & Ecosystem</h3>
 
-<p align="center"><b>Languages & Fundamentals</b></p>
+<br>
+
+<p align="center"><b>🎨 Frontend Development</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,bootstrap" />
   </a>
 </p>
 
-<p align="center"><b>Backend Development</b></p>
+<br>
+
+<p align="center"><b>⚙️ Backend Development & APIs</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express" />
   </a>
 </p>
 
-<p align="center"><b>Databases & Storage</b></p>
+<br>
+
+<p align="center"><b>🗄️ Databases & Storage</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" />
   </a>
 </p>
 
-<p align="center"><b>Tools & Environment</b></p>
+<br>
+
+<p align="center"><b>☁️ Cloud, DevOps & Tools</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,aws,docker" />
   </a>
+</p>
+
+<br>
+
+---
+
+<!-- ==================== GITHUB TROPHIES ==================== -->
+<h3 align="center">🏆 GitHub Trophies</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iam-abdullah-code&theme=dracula&no-frame=true&column=4&margin-w=15&margin-h=15" width="100%" />
 </p>
 
 ---
 
-<!-- ==================== GITHUB ANALYTICS ==================== -->
+<!-- ==================== GITHUB ANALYTICS & STATS ==================== -->
 <h3 align="center">📊 GitHub Activity & Statistics</h3>
 
 <p align="center">
@@ -78,6 +105,15 @@
 
 <p align="center">
   <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=iam-abdullah-code&theme=dracula&hide_border=true" />
+</p>
+
+---
+
+<!-- ==================== DEVELOPER HUMOR ==================== -->
+<h3 align="center">⚡ Developer Motivation & Humor</h3>
+
+<p align="center">
+  <img src="https://github-readme-joke-post.vercel.app/api?theme=dracula" />
 </p>
 
 ---
